@@ -1,0 +1,14 @@
+{
+    "name": "TV",
+    "short_name": "Tv",
+    "start_url": "../",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "tv.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "splash_pages": null
+  }   
